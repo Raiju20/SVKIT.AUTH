@@ -13,5 +13,3 @@
 {#if data.session}
 	<div><SignoutForm /></div>
 {/if}
-
-
