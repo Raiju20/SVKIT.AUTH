@@ -23,6 +23,9 @@
 				<li>
 					<a href="/chinook" class="hover:text-gray-200 transition duration-200">Chinook</a>
 				</li>
+				<li>
+					<a href="/new" class="hover:text-gray-200 transition duration-200">New</a>
+				</li>
 			</ul>
 		</nav>
 	</header>

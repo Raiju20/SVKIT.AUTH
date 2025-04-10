@@ -12,8 +12,8 @@
 		<p class="text-lg text-gray-600 mb-4">Пожалуйста, войдите или зарегистрируйтесь.</p>
 	{/if}
 
-	<div class="flex space-x-4">
+	<!-- <div class="flex space-x-4">
 		<a href='/signup' class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition duration-200">Регистрация</a>
 		<a href='/signin' class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition duration-200">Вход</a>
-	</div>
+	</div> -->
 </div>
